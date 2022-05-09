@@ -16,7 +16,7 @@ Please unzip the data and place the [data](https://www.kaggle.com/google-brain/n
 ## Rrquirements
 - Python >= 3.6.5
 
-- Tensorflow >= 1.12.0 
+- Tensorflow-gpu >= 1.14.0 
 
 - Numpy >= 1.15.4 
 
