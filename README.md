@@ -1,12 +1,12 @@
 ## Stochastic Variance Reduced Ensemble (SVRE)
 This repository contains code to reproduce results from the paper:
-**Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting the Adversarial Transferability**(CVPR2022)
+**Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting the Adversarial Transferability**(CVPR2022).
 We provide an example of the SVRE method, and the complete experimental code and data will be released soon. 
 
 
 
 ## Datesets And models
-To run the code, you should download pretrained models and the data. 
+To run the code, you should download pre-trained models and the data. 
 
 Please place [pre-trained models](https://drive.google.com/drive/folders/10cFNVEhLpCatwECA6SPB-2g0q5zZyfaw) under the models/ directory.  
 
@@ -33,7 +33,7 @@ Please unzip the data and place the [data](https://www.kaggle.com/google-brain/n
 ## File Description
 - `SVRE-I-FGSM.py`,`Ens-I-FGSM.py`,`SVRE-MI-FGSM.py`,`Ens-MI-FGSM.py` :  Generate adversarial examples.
 
-- `eval.py`: Eval the efficacy of attack method.
+- `eval.py`: Eval the efficacy of attack methods.
 
 - `./models`: Pre-trained models.
 
