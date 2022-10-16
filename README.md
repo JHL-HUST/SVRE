@@ -5,7 +5,7 @@ We provide an example of the SVRE method, and the complete experimental code and
 
 
 
-## Datesets And models
+## Datasets And models
 To run the code, you should download pre-trained models and the data. 
 
 Please place [pre-trained models](https://drive.google.com/drive/folders/10cFNVEhLpCatwECA6SPB-2g0q5zZyfaw) under the models/ directory.  
@@ -13,7 +13,7 @@ Please place [pre-trained models](https://drive.google.com/drive/folders/10cFNVE
 Please unzip the data and place the [data](https://www.kaggle.com/google-brain/nips-2017-adversarial-learning-development-set) under the dataset/ directory.
 
 
-## Rrquirements
+## Requirements
 - Python >= 3.6.5
 
 - Tensorflow-gpu >= 1.14.0 
